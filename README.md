@@ -18,11 +18,10 @@ Paper beats Rock
 The winner is displayed.
 The score updates accordingly.
 
-💡 Learning Objectives![victory](https://github.com/user-attachments/assets/77cfa29a-33c0-4f88-92d0-6fc6438dd1c6)
-
+💡 Learning Objectives
 This project helps in understanding:
 Conditional statements (if-else)
 Random module usage
 Loops
 Basic game logic
-User interaction handling<img width="233" height="216" alt="palm" src="https://github.com/user-attachments/assets/9b957dfb-f658-4d38-94db-2307b2b1fba2" />
+User interaction handling
